@@ -17,7 +17,7 @@ E-commerce REST API built with Node.js, Express.js, MySQL, and Prisma ORM.
 - Product management (Admin only)
 - Relational schema — Users, Products, Orders, Payments
 
-## In Development
+## Roadmap
 
 - Order management
 - Razorpay payment integration
